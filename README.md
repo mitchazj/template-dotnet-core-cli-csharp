@@ -13,7 +13,7 @@ Template for quickly creating a new .NET Core console application on GitPod.
 
 Note that this was originally forked from https://github.com/gitpod-io/template-dotnet-core-cli-csharp and many of these were already in this template.
 
-This repo (mine) is probably the cleanest base to work with for a new console project using GitHub, GitPod, and GitHub Actions.
+This repo is probably the cleanest base to work with for a new console project using GitHub, GitPod, and GitHub Actions.
 
 ## What to do after you use this template
 
