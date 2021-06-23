@@ -6,7 +6,7 @@ Template for quickly creating a new .NET Core console application on GitPod.
 
 ## How it was generated
 
-1. Templated with "`dotnet new console`" in the terminal
+1. Templated with `dotnet new console` in the terminal
 2. Namespace set to `dotnetcore` via editor
 3. Setup `.gitignore` for sanity and `.gitpod.yml` files for GitPod
 4. GitHub actions setup for building and running tests (incl. badge above)
